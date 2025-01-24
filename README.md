@@ -1,9 +1,9 @@
-# Chatbot :D
+# Hackaton week at EPITECH - Chatbot
+## Project Overview
+Creating a chatbot for internal use for a company with company data.
 
-we don't know what we're doing..
-
-group:
-Arthur Sardella
-Camila Grandini
-Julia Bomfa
-Marianne Titova
+## Group:
+ - Júlia Bomfá
+ - Marianna Titova
+ - Arthur Sardella
+ - Camila Grandini
